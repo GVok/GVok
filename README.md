@@ -16,7 +16,7 @@ Hi, I’m **George Volkov**! I love coding, creating projects. Here’s a bit mo
 
 Here is my bigges and most interesting project:
 
-???
+**Industry** | Brief description of the project. 🔗 https://github.com/GVok/Industry?tab=readme-ov-file#industry
 
 ---
 
